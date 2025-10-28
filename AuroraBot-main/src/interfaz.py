@@ -40,7 +40,7 @@ COLORS = {
     'pink': '#ff0080',
     'navy': '#1a237e',
     'text': '#e0e6ff',
-    'text_dim': '#8b93b8',
+    'text_dim': "#ffffff",
 }
 
 # Variables globales para controlar la reproducción de voz

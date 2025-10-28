@@ -576,3 +576,336 @@ ImportError: cannot import name 'modo_terminal' from 'src.main' (/home/doki/Desc
 2025-10-26 22:44:25,785 - __main__ - INFO - ✅ Configuración de API verificada
 2025-10-26 22:44:25,786 - __main__ - INFO - Iniciando interfaz gráfica
 2025-10-26 22:44:26,809 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 07:56:11,668 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 07:56:11,672 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 07:56:11,672 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 07:56:12,597 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 07:56:38,052 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 07:56:38,055 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 07:56:38,055 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 07:56:38,821 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 07:58:09,495 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=motocicletas
+2025-10-27 07:58:34,468 - src.cerebro_ia - INFO - Generando respuesta para: sí el cocodrilo es muy muy muy como lento porque s...
+2025-10-27 07:58:36,098 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 07:58:42,753 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 07:58:52,489 - src.cerebro_ia - INFO - Generando respuesta para: eso lo vi dije que pa...
+2025-10-27 07:58:53,199 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 07:59:00,106 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 07:59:05,701 - src.cerebro_ia - INFO - Generando respuesta para: me cobran $57...
+2025-10-27 07:59:06,411 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 07:59:08,766 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:00:08,366 - src.habilidades_web - INFO - Reproduciendo en YouTube: perritos bailando
+2025-10-27 08:00:25,677 - src.cerebro_ia - INFO - Generando respuesta para: sí porque jajaja...
+2025-10-27 08:00:27,205 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:00:28,731 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:08:47,388 - src.habilidades_web - INFO - Resumen de Wikipedia generado exitosamente.
+2025-10-27 08:09:45,610 - src.cerebro_ia - INFO - Generando respuesta para: de mochila...
+2025-10-27 08:09:47,345 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:09:52,114 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:09:57,478 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:09:57,482 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:09:57,482 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:09:58,359 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:10:15,935 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=perros
+2025-10-27 08:16:00,425 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:16:00,429 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:16:00,429 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:16:01,501 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:16:46,272 - src.habilidades_web - INFO - Reproduciendo en YouTube: perritos bailando
+2025-10-27 08:16:58,367 - src.cerebro_ia - INFO - Generando respuesta para: buscando...
+2025-10-27 08:17:00,300 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:17:07,507 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:17:23,403 - src.cerebro_ia - INFO - Generando respuesta para: busca algo de mí yo siempre pregunto...
+2025-10-27 08:17:24,160 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:17:37,695 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:17:37,699 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:17:37,699 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:17:38,781 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:19:19,560 - src.habilidades_web - INFO - Reproduciendo en YouTube: cocodrilos marching band
+2025-10-27 08:19:36,382 - src.cerebro_ia - INFO - Generando respuesta para: sí ya sé...
+2025-10-27 08:19:38,509 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:19:40,457 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:21:04,830 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=instituto+nacional+técnico+industrial
+2025-10-27 08:22:49,086 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:22:49,090 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:22:49,090 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:22:49,981 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:23:05,562 - src.cerebro_ia - INFO - Generando respuesta para: free firefox...
+2025-10-27 08:23:07,076 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:23:11,221 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:23:48,987 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:23:48,990 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:23:48,990 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:23:49,838 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:26:55,238 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:26:55,248 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:26:55,248 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:26:57,100 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:27:12,674 - src.habilidades_web - INFO - Reproduciendo en YouTube: cocodrilos marching band
+2025-10-27 08:27:53,507 - src.cerebro_ia - INFO - Generando respuesta para: ya cállate versus espérate...
+2025-10-27 08:27:54,728 - httpx - INFO - HTTP Request: POST https:2025-10-27 08:31:13,871 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:31:13,875 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:31:13,875 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:31:14,864 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:31:32,125 - src.cerebro_ia - INFO - Generando respuesta para: acá en youtube alan walker...
+2025-10-27 08:31:33,652 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:31:37,683 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:32:44,615 - src.habilidades_web - INFO - Reproduciendo en YouTube: perros bailando
+2025-10-27 08:33:23,525 - src.habilidades_web - INFO - Reproduciendo en YouTube: cocodrilos marching band
+2025-10-27 08:33:40,226 - src.cerebro_ia - INFO - Generando respuesta para: ya eso es lo bueno...
+2025-10-27 08:33:41,439 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:33:43,487 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:49:24,739 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:49:24,743 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:49:24,744 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:49:24,753 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 08:49:24,753 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 08:49:24,777 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 08:49:25,714 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:49:39,873 - src.cerebro_ia - INFO - Generando respuesta para: de firefox...
+2025-10-27 08:49:41,093 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:49:46,460 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 08:50:50,379 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 08:50:50,382 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 08:50:50,383 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 08:50:50,384 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 08:50:50,384 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 08:50:50,409 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 08:50:51,257 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 08:53:20,351 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'navegador'
+2025-10-27 08:53:20,352 - src.habilidades_sistema - INFO - ▶️  Ejecutando: firefox
+2025-10-27 08:53:32,251 - src.cerebro_ia - INFO - Generando respuesta para: eh...
+2025-10-27 08:53:33,503 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 08:53:40,956 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:41:49,274 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 09:41:49,278 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 09:41:49,278 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 09:41:49,280 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 09:41:49,281 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 09:41:49,324 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 09:41:50,201 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 09:42:06,784 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=perros+bailando
+2025-10-27 09:45:05,072 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 09:45:05,076 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 09:45:05,076 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 09:45:05,078 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 09:45:05,079 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 09:45:05,122 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 09:45:06,028 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 09:48:14,800 - src.habilidades_web - INFO - Reproduciendo en YouTube: legends never die
+2025-10-27 09:48:44,715 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'visual code'
+2025-10-27 09:48:44,720 - src.habilidades_sistema - INFO - ▶️  Ejecutando: /usr/share/code/code
+2025-10-27 09:48:59,231 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'papera  y damari'
+2025-10-27 09:48:59,239 - src.habilidades_sistema - WARNING - ❌ Programa no encontrado: papera  y damari
+2025-10-27 09:49:12,874 - src.cerebro_ia - INFO - Generando respuesta para: es más como un...
+2025-10-27 09:49:15,418 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:49:17,700 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:49:55,368 - src.cerebro_ia - INFO - Generando respuesta para: jajaja...
+2025-10-27 09:49:56,085 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:49:58,357 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:50:21,323 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 09:50:21,326 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 09:50:21,327 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 09:50:21,329 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 09:50:21,329 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 09:50:21,372 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 09:50:22,787 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 09:50:45,142 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'steam'
+2025-10-27 09:50:45,142 - src.habilidades_sistema - INFO - ▶️  Ejecutando: /usr/games/steam
+2025-10-27 09:51:08,972 - src.cerebro_ia - INFO - Generando respuesta para: ah no olvídalo sí lo abrió solo que tardó...
+2025-10-27 09:51:11,947 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:51:13,020 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:51:40,647 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'libreoffice writer'
+2025-10-27 09:51:40,648 - src.habilidades_sistema - INFO - ▶️  Ejecutando: libreoffice --writer
+2025-10-27 09:51:56,214 - src.cerebro_ia - INFO - Generando respuesta para: gorilas marching band...
+2025-10-27 09:51:56,818 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:52:03,068 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:52:27,062 - src.cerebro_ia - INFO - Generando respuesta para: en youtube cocodrilos marching band...
+2025-10-27 09:52:27,759 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:52:32,061 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:52:53,727 - src.habilidades_web - INFO - Reproduciendo en YouTube: busca  cocodrilos marching band
+2025-10-27 09:53:18,180 - src.cerebro_ia - INFO - Generando respuesta para: después de lo que se vea que se me hace que haga m...
+2025-10-27 09:53:19,212 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:53:30,531 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:53:51,010 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'spotify'
+2025-10-27 09:53:51,018 - src.habilidades_sistema - INFO - ▶️  Ejecutando: spotify
+2025-10-27 09:54:09,723 - src.cerebro_ia - INFO - Generando respuesta para: bueno aquí tienes la palabra de dios...
+2025-10-27 09:54:11,421 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:54:15,002 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:54:25,157 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'spotify'
+2025-10-27 09:54:25,161 - src.habilidades_sistema - INFO - ▶️  Ejecutando: spotify
+2025-10-27 09:54:44,529 - src.habilidades_web - INFO - Reproduciendo en YouTube: chijiro
+2025-10-27 09:54:44,936 - src.habilidades_web - INFO - Reproduciendo en YouTube: chijiro
+2025-10-27 09:54:57,433 - src.cerebro_ia - INFO - Generando respuesta para: quién es eduardo gómez...
+2025-10-27 09:54:57,921 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:55:01,184 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:56:38,371 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=club+penguin.com
+2025-10-27 09:57:03,381 - src.cerebro_ia - INFO - Generando respuesta para: mira yo digo 211...
+2025-10-27 09:57:04,523 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:57:07,354 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:57:15,887 - src.cerebro_ia - INFO - Generando respuesta para: google club penguin.com...
+2025-10-27 09:57:16,672 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:57:22,104 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:57:49,659 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 09:57:49,664 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 09:57:49,664 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 09:57:49,666 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 09:57:49,667 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 09:57:49,721 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 09:57:50,677 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 09:58:08,187 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=cp+legacy.com
+2025-10-27 09:58:39,837 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=https+dos+puntos+pleca+pleca+www.cp+legacy.com
+2025-10-27 09:58:58,686 - src.cerebro_ia - INFO - Generando respuesta para: dos puntos...
+2025-10-27 09:59:00,002 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 09:59:12,114 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 09:59:47,197 - src.habilidades_web - INFO - Reproduciendo en YouTube: club penguin
+2025-10-27 10:00:16,819 - src.habilidades_web - INFO - Reproduciendo en YouTube: video graciosos
+2025-10-27 10:00:29,916 - src.cerebro_ia - INFO - Generando respuesta para: avisarle el documento...
+2025-10-27 10:00:30,716 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:00:40,354 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:44:16,896 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 10:44:16,900 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 10:44:16,900 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 10:44:16,902 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 10:44:16,903 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 10:44:16,960 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 10:44:17,917 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 10:44:44,702 - src.cerebro_ia - INFO - Generando respuesta para: sí de hecho tiene sus chat pero eso...
+2025-10-27 10:44:45,960 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:44:53,912 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:45:17,140 - src.cerebro_ia - INFO - Generando respuesta para: videos de perritos bailando...
+2025-10-27 10:45:18,667 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:45:21,435 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:45:55,237 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 10:45:55,241 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 10:45:55,241 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 10:45:55,243 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 10:45:55,243 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 10:45:55,267 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 10:45:56,122 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 10:46:30,457 - src.cerebro_ia - INFO - Generando respuesta para: oye era youtuber...
+2025-10-27 10:46:32,655 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:46:34,984 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:47:08,755 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 10:47:08,758 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 10:47:08,760 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 10:47:08,761 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 10:47:08,762 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 10:47:08,789 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 10:47:09,682 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 10:47:33,235 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'navegador'
+2025-10-27 10:47:33,236 - src.habilidades_sistema - INFO - ▶️  Ejecutando: firefox
+2025-10-27 10:47:41,734 - src.cerebro_ia - INFO - Generando respuesta para: porque solo...
+2025-10-27 10:47:43,077 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:47:44,818 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:47:57,195 - src.cerebro_ia - INFO - Generando respuesta para: google porno...
+2025-10-27 10:47:57,901 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:48:01,262 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:48:44,393 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 10:48:44,397 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 10:48:44,398 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 10:48:44,400 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 10:48:44,400 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 10:48:44,442 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 10:48:45,329 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 10:53:23,152 - src.habilidades_web - INFO - Reproduciendo en YouTube: perros bailando
+2025-10-27 10:53:41,075 - src.cerebro_ia - INFO - Generando respuesta para: no le voy a dar play...
+2025-10-27 10:53:45,048 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:53:46,202 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:54:00,729 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'visual code'
+2025-10-27 10:54:00,729 - src.habilidades_sistema - INFO - ▶️  Ejecutando: /usr/share/code/code
+2025-10-27 10:54:27,641 - src.cerebro_ia - INFO - Generando respuesta para: jajaja ahora tenemos dos visuales de estudio ya no...
+2025-10-27 10:54:32,154 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:54:34,211 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:54:39,855 - src.cerebro_ia - INFO - Generando respuesta para: mira...
+2025-10-27 10:54:40,556 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:54:41,575 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:55:04,609 - src.habilidades_web - INFO - Resumen de Wikipedia generado exitosamente.
+2025-10-27 10:56:23,808 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'spotify'
+2025-10-27 10:56:23,810 - src.habilidades_sistema - INFO - ▶️  Ejecutando: spotify
+2025-10-27 10:56:39,972 - src.cerebro_ia - INFO - Generando respuesta para: tú sabes que a mí me encanta la iglesia algo sale ...
+2025-10-27 10:56:40,574 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:56:45,720 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 10:56:57,273 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'steam'
+2025-10-27 10:56:57,274 - src.habilidades_sistema - INFO - ▶️  Ejecutando: /usr/games/steam
+2025-10-27 10:57:08,753 - src.cerebro_ia - INFO - Generando respuesta para: juan viste que...
+2025-10-27 10:57:09,546 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 10:57:12,056 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:02:05,601 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'libreoffice writer'
+2025-10-27 11:02:05,609 - src.habilidades_sistema - INFO - ▶️  Ejecutando: libreoffice --writer
+2025-10-27 11:02:50,750 - src.cerebro_ia - INFO - Generando respuesta para: en spotify tuta...
+2025-10-27 11:02:51,251 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:02:55,860 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:03:30,066 - src.cerebro_ia - INFO - Generando respuesta para: en youtube...
+2025-10-27 11:03:31,492 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:03:33,234 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:04:08,062 - src.habilidades_web - INFO - Reproduciendo en YouTube: shijiro billie eilish
+2025-10-27 11:04:29,277 - src.cerebro_ia - INFO - Generando respuesta para: canciones club penguin...
+2025-10-27 11:04:30,465 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:04:38,258 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:05:00,493 - src.habilidades_web - INFO - Reproduciendo en YouTube: dos tres trucos
+2025-10-27 11:08:16,894 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 11:08:16,899 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 11:08:16,899 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 11:08:16,902 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 11:08:16,902 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 11:08:16,953 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 11:08:17,924 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 11:13:36,561 - src.habilidades_web - INFO - Reproduciendo en YouTube: busca  31 minutos tiny desk
+2025-10-27 11:22:26,808 - src.habilidades_web - INFO - Reproduciendo en YouTube: cocodrilos marching band
+2025-10-27 11:22:48,406 - src.cerebro_ia - INFO - Generando respuesta para: no quiero ver a las cachiporras viendo el mismo ba...
+2025-10-27 11:22:53,403 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:22:57,632 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:23:11,561 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=motocicletas
+2025-10-27 11:23:30,163 - src.cerebro_ia - INFO - Generando respuesta para: leer el artículo que le dimos hacer un resumen res...
+2025-10-27 11:23:30,874 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:23:32,616 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:23:41,520 - src.habilidades_web - INFO - Resumen de Wikipedia generado exitosamente.
+2025-10-27 11:24:44,045 - src.cerebro_ia - INFO - Generando respuesta para: sobre el libre office writer...
+2025-10-27 11:24:44,508 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:24:52,293 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:25:12,848 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 11:25:12,852 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 11:25:12,852 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 11:25:12,854 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 11:25:12,855 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 11:25:12,913 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 11:25:13,896 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 11:25:30,943 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'libreoffice writer'
+2025-10-27 11:25:30,943 - src.habilidades_sistema - INFO - ▶️  Ejecutando: libreoffice --writer
+2025-10-27 11:25:40,320 - src.cerebro_ia - INFO - Generando respuesta para: jajaja...
+2025-10-27 11:25:41,641 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:25:43,814 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:26:05,711 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'spotify'
+2025-10-27 11:26:05,713 - src.habilidades_sistema - INFO - ▶️  Ejecutando: spotify
+2025-10-27 11:27:10,974 - src.habilidades_web - INFO - Abriendo búsqueda en google: https://www.google.com/search?q=instituto+nacional+técnico+industrial
+2025-10-27 11:27:18,628 - src.habilidades_web - INFO - Reproduciendo en YouTube: cocodrilos marching band
+2025-10-27 11:27:35,014 - src.cerebro_ia - INFO - Generando respuesta para: en youtube morales lipe...
+2025-10-27 11:27:35,723 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:27:41,865 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:27:50,972 - src.habilidades_web - INFO - Reproduciendo en YouTube: morales lipe
+2025-10-27 11:28:34,368 - src.cerebro_ia - INFO - Generando respuesta para: visual code...
+2025-10-27 11:28:34,904 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:28:44,627 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:29:44,494 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-27 11:29:44,498 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-27 11:29:44,499 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-27 11:29:44,501 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-27 11:29:44,501 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-27 11:29:44,549 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-27 11:29:45,499 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
+2025-10-27 11:30:08,401 - src.habilidades_sistema - INFO - 🔍 Buscando programa: 'visual studio code'
+2025-10-27 11:30:08,403 - src.habilidades_sistema - INFO - ▶️  Ejecutando: /usr/share/code/code
+2025-10-27 11:30:21,309 - src.cerebro_ia - INFO - Generando respuesta para: me encanta buscar canciones...
+2025-10-27 11:30:23,546 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:30:25,519 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-27 11:30:31,747 - src.cerebro_ia - INFO - Generando respuesta para: cántame una canción de cuna...
+2025-10-27 11:30:32,352 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-27 11:30:38,397 - src.cerebro_ia - INFO - Respuesta generada exitosamente
+2025-10-28 07:15:53,541 - __main__ - INFO - ✅ Todas las dependencias están instaladas
+2025-10-28 07:15:53,545 - __main__ - INFO - ✅ Configuración de API verificada
+2025-10-28 07:15:53,545 - __main__ - INFO - Iniciando interfaz gráfica
+2025-10-28 07:15:53,548 - src.habilidades_sistema - INFO - 🚀 Iniciando detección de programas...
+2025-10-28 07:15:53,548 - src.habilidades_sistema - INFO - 🔍 Detectando programas instalados en Linux...
+2025-10-28 07:15:53,574 - src.habilidades_sistema - INFO - ✅ Detectados 177 programas
+2025-10-28 07:15:54,460 - src.habilidades_web - INFO - ✅ Biblioteca Wikipedia disponible (es)
